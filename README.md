@@ -1,8 +1,6 @@
 <meta http-equiv="refresh" content="0; url='https://mimbcd-ui.github.io/repo-template-datasets/web/index.html'" />
 
-# Datasets Repository Template
-
-<img src="https://github.com/MIMBCD-UI/meta/blob/master/banners/datasets_1280x640.png?raw=true" width="100%" />
+# Repository Template
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg?style=flat-square)](https://github.com/MIMBCD-UI/repo-template-datasets/blob/master/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/MIMBCD-UI/repo-template-datasets?style=flat-square)](https://github.com/MIMBCD-UI/repo-template-datasets/commits/master)
@@ -107,21 +105,7 @@ The current information will summarize important items of this repository. In th
 
 The following list, represents the set of related repositories for the presented one:
 
-- [`dataset-uta4-sus`](https://github.com/MIMBCD-UI/dataset-uta4-sus)
-
-- [`dataset-uta4-nasa-tlx`](https://github.com/MIMBCD-UI/dataset-uta4-nasa-tlx)
-
-- [`dataset-uta4-time`](https://github.com/MIMBCD-UI/dataset-uta4-time)
-
-- [`dataset-uta4-rates`](https://github.com/MIMBCD-UI/dataset-uta4-rates)
-
-- [`dataset-uta7-sus`](https://github.com/MIMBCD-UI/dataset-uta7-sus)
-
-- [`dataset-uta7-nasa-tlx`](https://github.com/MIMBCD-UI/dataset-uta7-nasa-tlx)
-
-- [`dataset-uta7-time`](https://github.com/MIMBCD-UI/dataset-uta7-time)
-
-- [`dataset-uta7-rates`](https://github.com/MIMBCD-UI/dataset-uta7-rates)
+**TODO**
 
 ### Dataset Resources
 
@@ -141,11 +125,7 @@ Our team brings everything together sharing ideas and the same purpose, developi
 
 #### Authors
 
-* Francisco Maria Calisto [ [Website](http://www.franciscocalisto.me/) | [ResearchGate](https://www.researchgate.net/profile/Francisco_Maria_Calisto) | [GitHub](https://github.com/FMCalisto) | [Twitter](https://twitter.com/FMCalisto) | [LinkedIn](https://www.linkedin.com/in/fmcalisto/) ]
-
-* Hugo Lencastre [ [ResearchGate](https://www.researchgate.net/profile/Hugo_Lencastre) ]
-
-* Nádia Mourão [ [ResearchGate](https://www.researchgate.net/profile/Nadia_Mourao) ]
+**TODO**
 
 #### Participants
 
